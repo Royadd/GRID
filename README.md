@@ -1,1 +1,1 @@
-# CNN for object localization
+# Object localization
